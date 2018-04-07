@@ -1,0 +1,37 @@
+﻿{
+	"name":"Math",
+	"data":
+	[
+	{
+		"question":"Tam giác có 1 góc 40 và 1 góc 50 là tam giác gì ?",
+		"answer":[
+			"Tam giác cân",
+			"Tam giác dều",
+			"Tam giác vuông",
+			"Không có tam giác nào cả?"
+			] ,
+		"result":"3"
+	},	
+	{
+		"question":"Số tiếp theo là bao nhiêu? : 8, 20, 44, 92, ...",
+		"answer":[
+			"184",
+			"188",
+			"192",
+			"200"
+			] ,
+		"result":"2"
+	},
+	{
+		"question":"Một nguời phụ nữ nói tuổi của mình sẽ buớc vào tuổi 30 khi năm 2000, nhung vào nam 2010 tuổi của cô ấy là 20. Vậy cô ấy bị diên hay điều này vẫn có thể xảy ra?",
+		"answer":[
+			"Bị diên",
+			"Bị khùng",
+			"Có thể",
+			"Không đời nào"
+			] ,
+		"result":"1"
+	}	
+			
+	]
+}

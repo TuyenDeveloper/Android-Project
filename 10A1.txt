@@ -1,0 +1,9 @@
+﻿{
+"data":[
+{"name":"Võ Thị Sáu","address":"123,Lí Thường Kiệt","phonenumber":"01231212512","parentname":"Võ Thị Năm","parentphonenumber":"12412515216"},
+{"name":"Võ Nguyên Giáp","address":"123,Lí Thường Kiệt","phonenumber":"01231212512","parentname":"Võ Thị Thủy Tiên","parentphonenumber":"12412515216"},
+{"name":"Nguyễn Huệ","address":"123,Lí Thường Kiệt","phonenumber":"01231212512","parentname":"Vua Hùng","parentphonenumber":"12412515216"},
+{"name":"Trương Vô Kị","address":"123,Lí Thường Kiệt","phonenumber":"01231212512","parentname":"Trương Giáo Chủ","parentphonenumber":"12412515216"},
+{"name":"Siêu nhân Gao Đỏ","address":"123,Lí Thường Kiệt","phonenumber":"01231212512","parentname":"Mảnh Thú Gao","parentphonenumber":"12412515216"}
+]
+}
